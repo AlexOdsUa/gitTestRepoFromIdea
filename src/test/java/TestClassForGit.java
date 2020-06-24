@@ -18,4 +18,12 @@ public class TestClassForGit {
         System.out.println(formatter.format(date));
     }
 
+    @Test
+    public void testMethod3() {
+        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy 'HelloWorld' HH:mm:ss");
+        Date date = new Date();
+        System.out.println(formatter.format(date));
+    }
+
+
 }
