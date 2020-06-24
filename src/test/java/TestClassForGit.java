@@ -16,4 +16,10 @@ public class TestClassForGit {
         System.out.println("third testBranch");
     }
 
+
+    @Test
+    public void testMethod4() {
+        System.out.println("finalMerge2");
+    }
+
 }
