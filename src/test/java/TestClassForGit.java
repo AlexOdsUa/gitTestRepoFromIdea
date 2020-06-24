@@ -19,7 +19,7 @@ public class TestClassForGit {
 
     @Test
     public void testMethod4() {
-        System.out.println("finalMerge");
+        System.out.println("finalMerge2");
     }
 
 }
