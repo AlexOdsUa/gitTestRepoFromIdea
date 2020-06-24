@@ -34,7 +34,7 @@ public class TestClassForGit {
 
     @Test
     public void testMethod4() {
-        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy 'NewBranch' HH:mm:ss");
+        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy 'NewBranch2' HH:mm:ss");
         Date date = new Date();
         System.out.println(formatter.format(date));
     }
