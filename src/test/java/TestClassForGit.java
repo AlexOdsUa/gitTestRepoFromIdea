@@ -11,4 +11,9 @@ public class TestClassForGit {
         System.out.println("second testBranch");
     }
 
+    @Test
+    public void testMethod3() {
+        System.out.println("third testBranch");
+    }
+
 }
