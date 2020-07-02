@@ -21,5 +21,10 @@ public class TestClassForGit {
     public void testMethod4() {
         System.out.println("finalMerge2");
     }
+    
+        @Test
+    public void testMethod6() {
+        System.out.println("changeFromGit");
+    }
 
 }
