@@ -26,5 +26,12 @@ public class TestClassForGit {
     public void testMethod6() {
         System.out.println("changeFromGit");
     }
+    
+        
+        @Test
+    public void testMethod8() {
+        System.out.println("changeFromGit8");
+    }
+
 
 }
