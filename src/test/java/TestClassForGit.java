@@ -46,6 +46,12 @@ public class TestClassForGit {
     public void testMethod9() {
         System.out.println("testMethod9");
     }
+    
+        @Test
+
+    public void testMethod10() {
+        System.out.println("testMethod10");
+    }
 
 
 }
